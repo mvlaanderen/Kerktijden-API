@@ -1,7 +1,7 @@
 <?php
 
 /* ==================================================================================
-Name    : ChurchServiceFetcher
+Name    : Kerktijden API
 Version : 2.0
 Auhtor  : M. Vlaanderen
 Date    : 2020/01/21

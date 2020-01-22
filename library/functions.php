@@ -1,10 +1,10 @@
 <?php
 
 /* ===========================================================================
-Name      : ChurchServiceFetcher - Functions
+Name      : Kerktijden API - Functions
 Version   : 1.0
 Auhtor    : M. Vlaanderen
-Date      : 2019/06/26
+Date      : 2020/02/21
 Functions : convertDutch    - Convert dutch formated timestamp into english
 =============================================================================*/
 
